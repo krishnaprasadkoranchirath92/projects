@@ -1,1 +1,0 @@
-insert into associate(base_location, contact_number,designation, email, id, name, primary_skill, release_date) values('Bengaluru', '7349517055', 'SSE','','AH09721','kp', 'Java','09-09-2022');
